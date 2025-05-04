@@ -14,3 +14,5 @@ Este projeto é uma **lista de tarefas (To-Do List)** desenvolvida com **React**
 - Excluir tarefas
 - Salvar dados no navegador com localStorage
 
+## 🚀 Deploy
+https://davivalentinn.github.io/todolist/
