@@ -14,7 +14,3 @@ Este projeto é uma **lista de tarefas (To-Do List)** desenvolvida com **React**
 - Excluir tarefas
 - Salvar dados no navegador com localStorage
 
-## 🚀 Como rodar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/todolist-react.git
